@@ -1,0 +1,13 @@
+/* Author: Ravi, this file is to show all the styles for the home page */
+
+body {
+    background: green;
+}
+
+h1 {
+    background: red;
+}
+
+h2 {
+     background: grey; 
+}
